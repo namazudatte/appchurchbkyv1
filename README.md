@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Halo Selamat Datang
 
-## Anggg Domeos Manggara
+## Angga Domeos Manggara
 Junior Web Developer
 
 Aplikasi ini merupakan aplikasi yang di bangun untuk profile Paroki Bengkayang yang dibuat untuk memenuhi syarat kuliah kerja prakti saya (KP)
